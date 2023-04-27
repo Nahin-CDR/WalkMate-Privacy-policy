@@ -1,4 +1,4 @@
-#Privacy Policy for WalkMate Mobile Application
+# Privacy Policy for WalkMate Mobile Application
 
 
 
