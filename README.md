@@ -2,7 +2,7 @@
 
 
 
-At WalkMate, we are committed to protecting your privacy. This privacy policy explains how we collect, use, and disclose information about you when you use our mobile application (the "App").
+At WalkMate, we are committed to protecting your privacy. This privacy policy explains how we collect, use, and disclose information about you when you use our mobile application <b>WalkMate<b>.
 
 ## 1. Information We Collect
 <br>
