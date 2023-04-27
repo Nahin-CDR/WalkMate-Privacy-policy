@@ -8,7 +8,7 @@ At WalkMate, we are committed to protecting your privacy. This privacy policy ex
 <br>
 We do not collect any personal information from you when you use the App. We do not require an internet connection or any user account to use the App. The App only accesses your device's GPS location to provide walking distance calculations.
 
-##2. How We Use Your Information
+## 2. How We Use Your Information
 <br>
 Since we do not collect any personal information from you, we do not use your information for any purposes.
 
