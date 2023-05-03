@@ -1,4 +1,4 @@
-# Privacy Policy for WalkMate Mobile Application
+# Privacy Policy for WalkMate App
 
 
 
@@ -6,11 +6,22 @@ At WalkMate, we are committed to protecting your privacy. This privacy policy ex
 
 ## 1. Information We Collect
 <br>
-We do not collect any personal information from you when you use the App. We do not require an internet connection or any user account to use the App. The App only accesses your device's GPS location to provide walking distance calculations.
+We will use background location service and showing notification access from your device.We will collect your physical location to calculate and show the total distance you have travelled.We have used geolocator to get your current location. Where Geolocation refers to the geographic location (latitude and longitude coordinates) of an internet-connected electronic device, such as a cell phone or tablet. While many people believe geolocation means their physical location, it is the location of the device you're using that is connected to the Internet. 
+geolocator package link : https://pub.dev/packages/geolocator . <br>
+we have also used https://pub.dev/packages/awesome_notifications this package to show you notification after passing the time limit. <br>
+beside that ,
+App will take access from your phone of these following things : <br> 
+<b>SCHEDULE_EXACT_ALARM<b> <br>
+<b>ACCESS_FINE_LOCATION<b>  <br>
+<b>ACCESS_COARSE.LOCATION<b> <br>
+<b>ACCESS_BACKGROUND_LOCATION<b> <br>
+<b>RECEIVE_BOOT_COMPLETED<b> <br>
+<b>ACCESS_NOTIFICATION_POLICY<b>  <br>
+<b>VIBRATE<b>
 
 ## 2. How We Use Your Information
 <br>
-Since we do not collect any personal information from you, we do not use your information for any purposes.
+As we are collecting your physical location to calculate your travelled distance.
 
 ## 3. Sharing of Information
 <br>
@@ -18,11 +29,11 @@ We do not share any personal information with any third parties.
 
 ## 4. Your Choices
 <br>
-You do not need to make any choices regarding your personal information because we do not collect any personal information.
+Your choice is important to us before accessing your location and notification service App will show if you are agree or not. if you press yes then we will proceed to next otherwise you will exit the app.
 
 ## 5. Data Security
 <br>
-We do not collect any personal information from you, so there is no personal information to protect.
+We do not take your data to share with other third parties. Your background location data will only be used to calculate your travelled distance.
 
 ## 6. Children's Privacy
 <br>
