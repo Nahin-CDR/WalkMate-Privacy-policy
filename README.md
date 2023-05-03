@@ -21,7 +21,7 @@ App will take access from your phone of these following things : <br>
 
 ## 2. How We Use Your Information
 <br>
-As we are collecting your physical location to calculate your travelled distance.
+We are collecting your physical location information to calculate your travelled distance.
 
 ## 3. Sharing of Information
 <br>
